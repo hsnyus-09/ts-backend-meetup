@@ -1,15 +1,15 @@
 # meetup
 
-![logo](./public/logo/banner.png)
+![logo](../../public/logo/banner.png)
 
-# 2025년 11월 모임 소개
+# 2025년 10월 모임 소개
 
 네트워킹에 참여할 의사가 있는 사람들만 신청 부탁드립니다. 모임 참여 신청 후 의도적으로 네트워킹에만 불참하는 경우, 다른 사람들의 참여 기회를 빼앗는 일이 되므로, **다음 번 모임부터 참여를 제한할 수 있습니다.**
 
 신청 당일, 24시간 내로 입금하지 않은 사람의 경우에도 자동으로 신청이 취소되니, 꼭 당일 입금 부탁드립니다.
 
--   [신청 링크](https://www.ticketa.co/events/63)
--   날짜 및 시간: 2025년 11월 28일 금요일 19시 입장
+-   [신청 링크](https://www.ticketa.co/events/44)
+-   날짜 및 시간: 2025년 10월 31일 금요일 19시 입장
     > 모임 장소가 업무 공간인 만큼 일찍 오시는 경우 입장이 불가할 수 있습니다. 양해 바랍니다.
 -   장소: 강남대로 465 (교보타워) B동 11층 당근마켓 라운지
 -   출입 방법: 입장 후 운영진 안내에 따라 명찰 배부 후 자리로 이동해주세요.
@@ -20,15 +20,15 @@
 -   발표 순서
 -   타임 테이블은 운영진 논의에 따라 계속 조정될 수 있습니다!
 
-| 시간          | 내용 / 발표자                                                                      | 소속                                        | 자료 |
-| ------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- | ---- |
-| 19:00 - 20:00 | 피자와 함께 하는 자유 네트워킹                                                     |                                             |      |
-| 20:00 - 20:20 | session1 [오픈소스 프로젝트 Better Auth](https://www.better-auth.com/) - 김태수 님 | [Better Auth](https://www.better-auth.com/) |      |
-| 20:20 - 20:30 | 질의응답                                                                           |                                             |      |
-| 20:30 - 20:50 | session2 프롬프트 이렇게 쓰고있어요. 요청에서 워크플로우까지 - 조민혁 님           | DX Lab                                      |      |
-| 20:50 - 21:00 | 질의응답                                                                           |                                             |      |
-| 21:00 - 21:20 | session3 ? - ? 님                                                                  |                                             |      |
-| 21:20 - 21:30 | 질의응답                                                                           |                                             |      |
+| 시간          | 내용 / 발표자                                                                                                                 | 소속           | 자료 |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------- | ---- |
+| 19:00 - 20:00 | 피자와 함께 하는 자유 네트워킹                                                                                                |                |      |
+| 20:00 - 20:20 | session1 HKT 간단히 알아보기 - 맹주영 님                                                                                      | 클레브레인     |      |
+| 20:20 - 20:30 | 질의응답                                                                                                                      |                |      |
+| 20:30 - 20:50 | session2 개발자에서 창업가로 - [남궁현](https://www.linkedin.com/in/koreanthinker/) 님                                        | 퍼슬리(Persly) |      |
+| 20:50 - 21:00 | 질의응답                                                                                                                      |                |      |
+| 21:00 - 21:20 | session3 - 에이젠틱 Loop를 통한 LLM 성능 개선 - [서종학](https://linkedin.com/in/ACoAADNNW6AB2kgn3BEW5sUgd8sS2ncRm538MEk/) 님 | 크리에이트립   |      |
+| 21:20 - 21:30 | 질의응답                                                                                                                      |                |      |
 
 -   종료 시간에 맞춰 타임 테이블이 조정될 수 있습니다.
 
@@ -82,7 +82,6 @@
 -   [2025년 7월 모임](./public/2507/README.md)
 -   [2025년 8월 모임](./public/2508/README.md)
 -   [2025년 9월 모임](./public/2509/README.md)
--   [2025년 10월 모임](./public/2510/README.md)
 
 # 🧑‍💻 역대 참가자
 
@@ -137,7 +136,7 @@
 <a href="https://github.com/samchon" title="samchon"><img src="https://images.weserv.nl/?url=github.com/samchon.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="samchon" /></a>
 <a href="https://github.com/ltnscp9028" title="ltnscp9028"><img src="https://images.weserv.nl/?url=github.com/ltnscp9028.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="ltnscp9028" /></a>
 <a href="https://github.com/rimo030" title="rimo030"><img src="https://images.weserv.nl/?url=github.com/rimo030.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="rimo030" /></a>
-<a href="https://github.com/jindragonn" title="jindragonn"><img src="https://images.weserv.nl/?url=github.com/jindragonn.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="jindragonn" /></a>
+<a href="https://github.com/imagine-k" title="imagine-k"><img src="https://images.weserv.nl/?url=github.com/imagine-k.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="imagine-k" /></a>
 <a href="https://github.com/Lujaec" title="Lujaec"><img src="https://images.weserv.nl/?url=github.com/Lujaec.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="Lujaec" /></a>
 <a href="https://github.com/jochongs" title="jochongs"><img src="https://images.weserv.nl/?url=github.com/jochongs.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="jochongs" /></a>
 <a href="https://github.com/jjikky" title="jjikky"><img src="https://images.weserv.nl/?url=github.com/jjikky.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="jjikky" /></a>
@@ -187,9 +186,7 @@
 <a href="https://github.com/SIKU-KR" title="SIKU-KR"><img src="https://images.weserv.nl/?url=github.com/SIKU-KR.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="SIKU-KR" /></a>
 <a href="https://github.com/daeho220" title="daeho220"><img src="https://images.weserv.nl/?url=github.com/daeho220.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="daeho220" /></a>
 <a href="https://github.com/clockk" title="clockk"><img src="https://images.weserv.nl/?url=github.com/clockk.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="clockk" /></a>
-<a href="https://github.com/CarefreeLife98" title="carefreelife98"><img src="https://images.weserv.nl/?url=github.com/Carefreelife98.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="carefreelife98" /></a>
-<a href="https://github.com/outsung" title="outsung"><img src="https://images.weserv.nl/?url=github.com/outsung.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="outsung" /></a>
-<a href="https://github.com/BearMett" title="BearMett"><img src="https://images.weserv.nl/?url=github.com/BearMett.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="BearMett" /></a>
+
 # FAQ
 
 > author: kakasoo
