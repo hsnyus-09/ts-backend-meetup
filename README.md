@@ -20,15 +20,15 @@
 -   발표 순서
 -   타임 테이블은 운영진 논의에 따라 계속 조정될 수 있습니다!
 
-| 시간          | 내용 / 발표자                                                                      | 소속                                        | 자료 |
-| ------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- | ---- |
-| 19:00 - 20:00 | 피자와 함께 하는 자유 네트워킹                                                     |                                             |      |
-| 20:00 - 20:20 | session1 [오픈소스 프로젝트 Better Auth](https://www.better-auth.com/) - 김태수 님 | [Better Auth](https://www.better-auth.com/) |      |
-| 20:20 - 20:30 | 질의응답                                                                           |                                             |      |
-| 20:30 - 20:50 | session2 프롬프트 이렇게 쓰고있어요. 요청에서 워크플로우까지 - 조민혁 님           | DX Lab                                      |      |
-| 20:50 - 21:00 | 질의응답                                                                           |                                             |      |
-| 21:00 - 21:20 | session3 ? - ? 님                                                                  |                                             |      |
-| 21:20 - 21:30 | 질의응답                                                                           |                                             |      |
+| 시간          | 내용 / 발표자                                                                                       | 소속                                        | 자료                                        |
+| ------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| 19:00 - 20:00 | 피자와 함께 하는 자유 네트워킹                                                                      |                                             |                                             |
+| 20:00 - 20:20 | session1 [오픈소스 프로젝트 Better Auth](https://www.better-auth.com/) - 김태수 님                  | [Better Auth](https://www.better-auth.com/) | [Better Auth](https://www.better-auth.com/) |
+| 20:20 - 20:30 | 질의응답                                                                                            |                                             |                                             |
+| 20:30 - 20:50 | session2 프롬프트 이렇게 쓰고있어요. 요청에서 워크플로우까지 - 조민혁 님                            | DX Lab                                      |                                             |
+| 20:50 - 21:00 | 질의응답                                                                                            |                                             |                                             |
+| 21:00 - 21:20 | session3 [Ventyd](https://github.com/daangn/ventyd)를 공개해요 - 이벤트 소싱 라이브러리 - 원종혁 님 | 당근                                        | [ventyd](https://github.com/daangn/ventyd)  |
+| 21:20 - 21:30 | 질의응답                                                                                            |                                             |                                             |
 
 -   종료 시간에 맞춰 타임 테이블이 조정될 수 있습니다.
 
@@ -190,6 +190,7 @@
 <a href="https://github.com/CarefreeLife98" title="carefreelife98"><img src="https://images.weserv.nl/?url=github.com/Carefreelife98.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="carefreelife98" /></a>
 <a href="https://github.com/outsung" title="outsung"><img src="https://images.weserv.nl/?url=github.com/outsung.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="outsung" /></a>
 <a href="https://github.com/BearMett" title="BearMett"><img src="https://images.weserv.nl/?url=github.com/BearMett.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="BearMett" /></a>
+
 # FAQ
 
 > author: kakasoo
